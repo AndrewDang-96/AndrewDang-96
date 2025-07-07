@@ -50,7 +50,7 @@ At the same time, architecture is a cell in a society that contributes to the de
 
 ### 📫 Contact
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [gmail](84.andrewdang@gmail.com)
-- <!--header-->
+<!--header-->
 <table>
   <tr>
     <td colspan="2" align="center">
