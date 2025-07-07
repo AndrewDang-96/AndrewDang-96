@@ -20,6 +20,9 @@
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
 </p>
+<p align="center">
+  <img src="./assets/behance-talkspacevietnam.png" alt="Talk Space Vietnam Behance Cover" width="800">
+</p>
 
 ## 🧑‍💻 About Me
 I am a freelance architect and researcher who develops projects using **Dynamo visual programming tool in Revit**.  
@@ -30,26 +33,6 @@ My field of pursuit is **Computational Design and BIM**.
 
 To me, architecture is not just a physical presence but a story that gives people invisible values.  
 At the same time, architecture is a cell in a society that contributes to the development of the lives of people around them.
-
----
-
-<!--## 🎓 Education
-**University of Science and Technology – The University of Da Nang**  
-📍 54 Nguyễn Lương Bằng, Quận Liên Chiểu, Đà Nẵng, Việt Nam  
-📅 2014 – 2019  
-
----
-
-## 💼 Experience
-- **2016 – 2018**: Freelancer (3D modeler – Revit)  
-- **2017 – 2018**: Revit Training at “CLICK CENTER”  
-- **2018 – Present**:  
-  - Partner at De’Zicor  
-  - Partner at Atelier T99  
-  - Project Developer of ConnectGroup  
-  - Programming Tool in Dynamo
--->
----
 
 ## 🧠 Software & Professional Skills
 
@@ -69,27 +52,11 @@ At the same time, architecture is a cell in a society that contributes to the de
   <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/.github/metrics.plugin.languages.details.svg" width="600"/>
 </p>
 
----
-<!--
-## 🏅 Award
-- 🏆 **2017** – Second Prize: *Design of the traditional university room in Danang*
-
----
-
-## 🗣 Languages
-- 🇬🇧 English  
-- 🇻🇳 Vietnamese
--->
----
-
 ## 🎯 Hobbies & Interests
 ☕ Coffee | 📚 Book | 🎧 Music | 💻 Technology | ⚽ Football | ✈️ Travelling | 🎮 Gaming
 
----
-
 ## 📫 Contact
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [gmail](84.andrewdang@gmail.com)
----
 
 ## 📊 GitHub Metrics (Live)
 > Automatically generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)
