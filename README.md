@@ -30,7 +30,7 @@ My field of pursuit is **Computational Design and BIM**.
 
 To me, architecture is not just a physical presence but a story that gives people invisible values.  
 At the same time, architecture is a cell in a society that contributes to the development of the lives of people around them.
-<table>
+
 ## 🧠 Software & Professional Skills
 
 ### Software Architecture
@@ -50,7 +50,6 @@ At the same time, architecture is a cell in a society that contributes to the de
 
 ### 📫 Contact
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [gmail](84.andrewdang@gmail.com)
-</table>
 
 <table>
   <tr>
