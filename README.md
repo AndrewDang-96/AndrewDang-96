@@ -16,7 +16,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com" target="_blank">Đặng Thanh Nam</a></h1>
 <h3 align="center">💡 Architect | Researcher | BIM & Computational Design Enthusiast from Vietnam</h3>
 
-- 👨‍💻 All of my projects are available at ([Behance](https://martinsidorov.com/](https://www.behance.net/talkspacevietnam)) and here in GitHub 😄
+- 👨‍💻 All of my projects are available at [Behance](https://martinsidorov.com/](https://www.behance.net/talkspacevietnam)) and here in GitHub 😄
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [mail](84.andrewdang@gmail.com)
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
