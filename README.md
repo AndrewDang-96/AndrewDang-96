@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Andrew Dang!</a></h1>
-<h3 align="center">A passionate Engineer from VietNam/h3>
+<h3 align="center">I am architecture from VietNam/h3>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://u8views.com/github/Matrix278"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
 
@@ -13,13 +13,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
-- 🔭 I’m currently working in **Wallester AS**
 
-- 🌱 I’m currently learning **Go language, PostgreSQL, AWS, Microservices**
-
-- 🤝 I’m looking for help with any sorting algorithms on any programming language in [Algorithms project](https://github.com/Matrix278/algorithms)
-
-- 👨‍💻 All of my projects are available at [[https://martinsidorov.com/](https://martinsidorov.com/](https://www.behance.net/talkspacevietnam)) and here in GitHub 😄
+- 👨‍💻 All of my projects are available at [[Behance](https://martinsidorov.com/](https://www.behance.net/talkspacevietnam)) and here in GitHub 😄
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [mail](mailto:84.andrewdang@gmail.com)
 
