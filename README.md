@@ -64,15 +64,6 @@ At the same time, architecture is a cell in a society that contributes to the de
 ## 📫 Contact
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [gmail](84.andrewdang@gmail.com)
 
-## 📊 GitHub Metrics (Live)
-> Automatically generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)
-
-<p align="center">
-  <img src="https://github.com/DTN-ConnectGroup/DTN-ConnectGroup/blob/main/github-metrics.svg" alt="Metrics" width="800">
-</p>
-
----
-
 ## 📌 GitHub Badges
 
 <p align="center">
