@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Andrew Dang!</a></h1>
-<h3 align="center">I am an architect from Vietnam /h3>
+<h3 align="center">I am an architect from Vietnam </h3>
 
 <!-- <div align="center">
   <a href="https://u8views.com/github/Matrix278"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
