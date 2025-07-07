@@ -13,7 +13,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com" target="_blank">Đặng Thanh Nam</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com" target="_blank">Andrew Dang</a></h1>
 <h3 align="center">💡 Architect | Researcher | BIM & Computational Design Enthusiast from Vietnam</h3>
 
 - 👨‍💻 All of my projects are available at [Behance](https://martinsidorov.com/](https://www.behance.net/talkspacevietnam)) and here in GitHub 😄
