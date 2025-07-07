@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Andrew Dang!</a></h1>
+<!--<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Andrew Dang!</a></h1>
 <h3 align="center">I am an architect from Vietnam </h3>
 
 <!-- <div align="center">
@@ -13,15 +13,125 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
+<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com" target="_blank">Đặng Thanh Nam</a></h1>
+<h3 align="center">💡 Architect | Researcher | BIM & Computational Design Enthusiast from Vietnam</h3>
+
+<p align="center">
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.svg" alt="Metrics Banner" width="800">
+</p>
 
 - 👨‍💻 All of my projects are available at [[Behance](https://martinsidorov.com/](https://www.behance.net/talkspacevietnam)) and here in GitHub 😄
 
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [mail](mailto:84.andrewdang@gmail.com)
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [mail](84.andrewdang@gmail.com)
 
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
 </p>
+---
 
+## 🧑‍💻 About Me
+I am a freelance architect and researcher who develops projects using **Dynamo visual programming tool in Revit**.  
+My work focuses on solving issues related to improving the ability of architects to work.  
+My field of pursuit is **Computational Design and BIM**.
+
+> My favorite part is the design of buildings that bring the breath of technology and indigenous elements.
+
+To me, architecture is not just a physical presence but a story that gives people invisible values.  
+At the same time, architecture is a cell in a society that contributes to the development of the lives of people around them.
+
+---
+
+## 🎓 Education
+**University of Science and Technology – The University of Da Nang**  
+📍 54 Nguyễn Lương Bằng, Quận Liên Chiểu, Đà Nẵng, Việt Nam  
+📅 2014 – 2019  
+
+---
+
+## 💼 Experience
+- **2016 – 2018**: Freelancer (3D modeler – Revit)  
+- **2017 – 2018**: Revit Training at “CLICK CENTER”  
+- **2018 – Present**:  
+  - Partner at De’Zicor  
+  - Partner at Atelier T99  
+  - Project Developer of ConnectGroup  
+  - Programming Tool in Dynamo
+
+---
+
+## 🧠 Software & Professional Skills
+
+### Software Architecture
+- Revit Architecture | Dynamo Revit | Grasshopper | Rhinoceros  
+- AutoCAD | Lumion | Photoshop
+
+### Microsoftware
+- Python | Visual Studio | GitHub | Power BI  
+- Excel | Word | PowerPoint
+
+### Professional Abilities
+- Parametric Design | Concept Design | Presentation  
+- Teamwork & Independent Work | Research | Organization
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/.github/metrics.plugin.languages.details.svg" width="600"/>
+</p>
+
+---
+
+## 🏅 Award
+- 🏆 **2017** – Second Prize: *Design of the traditional university room in Danang*
+
+---
+
+## 🗣 Languages
+- 🇬🇧 English  
+- 🇻🇳 Vietnamese
+
+---
+
+## 🎯 Hobbies & Interests
+☕ Coffee | 📚 Book | 🎧 Music | 💻 Technology | ⚽ Football | ✈️ Travelling | 🎮 Gaming
+
+---
+
+## 📫 Contact
+- 📧 Gmail: dangthanhamcg@gmail.com  
+- 📱 Phone: 0387512966  
+- 📍 Address: TP. Đà Nẵng  
+- 🌐 [Facebook](https://www.facebook.com/dangthanhamcg)  
+- 💼 [GitHub](https://github.com/DTN-ConnectGroup)
+
+---
+
+## 📊 GitHub Metrics (Live)
+> Automatically generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)
+
+<p align="center">
+  <img src="https://github.com/DTN-ConnectGroup/DTN-ConnectGroup/blob/main/github-metrics.svg" alt="Metrics" width="800">
+</p>
+
+---
+
+## 📌 GitHub Badges
+
+<p align="center">
+  <a href="https://github.com/DTN-ConnectGroup">
+    <img src="https://img.shields.io/github/followers/DTN-ConnectGroup?label=Follow&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://martinsidorov.com">
+    <img src="https://img.shields.io/badge/Website-Portfolio-lightgrey?logo=google-chrome&style=for-the-badge" />
+  </a>
+</p>
+
+
+
+
+
+<!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/martin-sidorov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
