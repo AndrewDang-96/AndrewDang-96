@@ -16,7 +16,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com" target="_blank">Đặng Thanh Nam</a></h1>
 <h3 align="center">💡 Architect | Researcher | BIM & Computational Design Enthusiast from Vietnam</h3>
 
-- 👨‍💻 All of my projects are available at [[Behance](https://martinsidorov.com/](https://www.behance.net/talkspacevietnam)) and here in GitHub 😄
+- 👨‍💻 All of my projects are available at ([Behance](https://martinsidorov.com/](https://www.behance.net/talkspacevietnam)) and here in GitHub 😄
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [mail](84.andrewdang@gmail.com)
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
@@ -34,7 +34,7 @@ At the same time, architecture is a cell in a society that contributes to the de
 
 ---
 
-## 🎓 Education
+<!--## 🎓 Education
 **University of Science and Technology – The University of Da Nang**  
 📍 54 Nguyễn Lương Bằng, Quận Liên Chiểu, Đà Nẵng, Việt Nam  
 📅 2014 – 2019  
@@ -49,7 +49,7 @@ At the same time, architecture is a cell in a society that contributes to the de
   - Partner at Atelier T99  
   - Project Developer of ConnectGroup  
   - Programming Tool in Dynamo
-
+-->
 ---
 
 ## 🧠 Software & Professional Skills
@@ -71,7 +71,7 @@ At the same time, architecture is a cell in a society that contributes to the de
 </p>
 
 ---
-
+<!--
 ## 🏅 Award
 - 🏆 **2017** – Second Prize: *Design of the traditional university room in Danang*
 
@@ -80,7 +80,7 @@ At the same time, architecture is a cell in a society that contributes to the de
 ## 🗣 Languages
 - 🇬🇧 English  
 - 🇻🇳 Vietnamese
-
+-->
 ---
 
 ## 🎯 Hobbies & Interests
@@ -89,11 +89,7 @@ At the same time, architecture is a cell in a society that contributes to the de
 ---
 
 ## 📫 Contact
-- 📧 Gmail: dangthanhamcg@gmail.com  
-- 📱 Phone: 0387512966  
-- 📍 Address: TP. Đà Nẵng  
-- 🌐 [Facebook](https://www.facebook.com/dangthanhamcg)  
-- 💼 [GitHub](https://github.com/DTN-ConnectGroup)
+- 📧 Gmail: 84.andrewdang@gmail.com  
 
 ---
 
