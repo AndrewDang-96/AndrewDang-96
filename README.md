@@ -34,9 +34,10 @@ At the same time, architecture is a cell in a society that contributes to the de
 ## 🧠 Software & Professional Skills
 
 ### Software Architecture
-- Revit Architecture | Dynamo Revit | Grasshopper | Rhinoceros  
+- Revit Architecture | Dynamo Revit | Grasshopper | Rhinoceros | Solidwork 
 - AutoCAD | Lumion | Photoshop
-
+### Production Management Software
+- Plant Simulation 
 ### Microsoftware
 - Python | Visual Studio | GitHub | Power BI  
 - Excel | Word | PowerPoint
@@ -45,11 +46,11 @@ At the same time, architecture is a cell in a society that contributes to the de
 - Parametric Design | Concept Design | Presentation  
 - Teamwork & Independent Work | Research | Organization
 
-### 🎯 Hobbies & Interests
+## 🎯 Hobbies & Interests
 ☕ Coffee | 📚 Book | 🎧 Music | 💻 Technology | ⚽ Football | ✈️ Travelling | 🎮 Gaming
 
-### 📫 Contact
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [gmail](84.andrewdang@gmail.com)
+## 📫 Contact
+- 📫 Connect with me on [linkedin](https://www.linkedin.com/in/dang-nam-102140196/), [facebook]([https://www.facebook.com/nitram278](https://www.facebook.com/dangthanhnamCG/)) or by [gmail](84.andrewdang@gmail.com)
 <!--header-->
 <table>
   <tr>
